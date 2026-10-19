@@ -1,0 +1,23 @@
+# Compiled output
+*.class
+out/
+build/
+bin/
+
+# JVM crash logs
+hs_err_pid*.log
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local-only files
+warehouse-management-java-team/UserCredentials.txt
